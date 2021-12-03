@@ -36,7 +36,9 @@ body {
 ol, ul {
 	list-style: none;
 }
-
+.imagefeatured{
+object-fit:contain;
+}
 blockquote, q {
 	quotes: none;
 }
